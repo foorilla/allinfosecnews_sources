@@ -1,15 +1,15 @@
 # all InfoSec news - Sources
 
-A list of online news & info sources in the InfoSec/Cybersecurity space with their website + RSS feed. This is an extract of all the sources aggregated from on the [allinfosecnews.com](https://allinfosecnews.com) website.
+A list of online news & info sources in the InfoSec / Cybersecurity space with their website + RSS feed. This is an extract of all the sources aggregated on the [allinfosecnews.com](https://allinfosecnews.com) website.
 
 ## Contents
 
-- [InfoSec News](#infoseccybersecurity-news)
-- [InfoSec Podcasts](#infoseccybersecurity-podcasts)
-- [InfoSec Videos](#infoseccybersecurity-podcasts)
-- [InfoSec Jobs](#infoseccybersecurity-jobs)
+- [InfoSec / Cybersecurity News](#infosec-cybersecurity-news)
+- [InfoSec / Cybersecurity Podcasts](#infosec-cybersecurity-podcasts)
+- [InfoSec / Cybersecurity Videos](#infosec-cybersecurity-videos)
+- [InfoSec / Cybersecurity Jobs](#infosec-cybersecurity-jobs)
 
-## InfoSec/Cybersecurity News
+## InfoSec / Cybersecurity News
 
 - [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com) - Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds. (RSS feed: https://blog.cryptographyengineering.com/feed)
 
@@ -283,9 +283,9 @@ A list of online news & info sources in the InfoSec/Cybersecurity space with the
 
 - [NCSC Feed](https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml) - This includes feeds from report, guidance and blog-post (RSS feed: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)
 
-- [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
-
 - [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
+
+- [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -479,7 +479,7 @@ A list of online news & info sources in the InfoSec/Cybersecurity space with the
 
 **[⬆ back to top](#contents)**
 
-## InfoSec/Cybersecurity Podcasts
+## InfoSec / Cybersecurity Podcasts
 
 - [7 Minute Security](https://7ms.us/) - (RSS feed: https://7ms.us/rss/)
 
@@ -599,7 +599,7 @@ A list of online news & info sources in the InfoSec/Cybersecurity space with the
 
 **[⬆ back to top](#contents)**
 
-## InfoSec/Cybersecurity Videos
+## InfoSec / Cybersecurity Videos
 
 - [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCy8ntxFEudOCRZYT1f7ya9Q)
 
@@ -729,8 +729,7 @@ A list of online news & info sources in the InfoSec/Cybersecurity space with the
 
 **[⬆ back to top](#contents)**
 
-## InfoSec/Cybersecurity Jobs
+## InfoSec / Cybersecurity Jobs
 
 - [infosec-jobs.com](https://infosec-jobs.com/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Ethical Hacking, Pen Testing, Security Engineering, Threat Research, Vulnerability Analysis, Cryptography, Digital Forensics and Cyber Security in general. (RSS feed: https://infosec-jobs.com/feed/)
-
 **[⬆ back to top](#contents)**
