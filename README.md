@@ -4,10 +4,10 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 ## Contents
 
-- [InfoSec / Cybersecurity News](#infosec-cybersecurity-news)
-- [InfoSec / Cybersecurity Podcasts](#infosec-cybersecurity-podcasts)
-- [InfoSec / Cybersecurity Videos](#infosec-cybersecurity-videos)
-- [InfoSec / Cybersecurity Jobs](#infosec-cybersecurity-jobs)
+- [InfoSec / Cybersecurity News](#infosec--cybersecurity-news)
+- [InfoSec / Cybersecurity Podcasts](#infosec--cybersecurity-podcasts)
+- [InfoSec / Cybersecurity Videos](#infosec--cybersecurity-videos)
+- [InfoSec / Cybersecurity Jobs](#infosec--cybersecurity-jobs)
 
 ## InfoSec / Cybersecurity News
 
