@@ -4,16 +4,14 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 ## Contents
 
-- [InfoSec / Cybersecurity News](#infosec--cybersecurity-news)
-- [InfoSec / Cybersecurity Podcasts](#infosec--cybersecurity-podcasts)
-- [InfoSec / Cybersecurity Videos](#infosec--cybersecurity-videos)
-- [InfoSec / Cybersecurity Jobs](#infosec--cybersecurity-jobs)
+- [InfoSec / Cybersecurity News](#infosec-cybersecurity-news)
+- [InfoSec / Cybersecurity Podcasts](#infosec-cybersecurity-podcasts)
+- [InfoSec / Cybersecurity Videos](#infosec-cybersecurity-videos)
+- [InfoSec / Cybersecurity Jobs](#infosec-cybersecurity-jobs)
 
 ## InfoSec / Cybersecurity News
 
 - [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com) - Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds. (RSS feed: https://blog.cryptographyengineering.com/feed)
-
-- [AI-TechPark](https://ai-techpark.com) - AI, ML, IoT, Cybersecurity News &amp; Trend Analysis, Interviews (RSS feed: https://ai-techpark.com/feed)
 
 - [Akamai Blog](https://www.akamai.com/blog) - Read more about what we&#x27;re thinking about in the Akamai blog. (RSS feed: http://feeds.feedburner.com/akamai/blog)
 
@@ -31,7 +29,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Avast Threat Labs](https://decoded.avast.io/) - Uncovering Tactics, Techniques and Procedures of malicious actors (RSS feed: https://decoded.avast.io/feed/)
 
-- [AWS Threat Research Team – AWS Security Blog](https://aws.amazon.com/blogs/security/) - The latest AWS security, identity, and compliance launches, announcements, and how-to posts. (RSS feed: https://aws.amazon.com/blogs/security/tag/aws-threat-research-team/feed/)
+- [AWS Security Blog](https://aws.amazon.com/blogs/security/) - The latest AWS security, identity, and compliance launches, announcements, and how-to posts. (RSS feed: https://aws.amazon.com/blogs/security/feed/)
 
 - [BankInfoSecurity.com  RSS Syndication](https://www.bankinfosecurity.com/) - BankInfoSecurity.com RSS News Feeds on bank information security news, regulations, blogs and education (RSS feed: https://www.bankinfosecurity.com/rss-feeds)
 
@@ -106,6 +104,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [cybersecurity](https://www.reddit.com/r/cybersecurity) - A community for current or aspiring technical professionals to discuss cybersecurity, threats, etc. (RSS feed: https://www.reddit.com/r/cybersecurity.json?limit=50)
 
 - [Cybersecurity](https://www.lawfareblog.com/taxonomy/term/5798/all) - As our lives become increasingly dependent upon computer systems and cyber technologies grow ever more sophisticated, the internet has emerged … (RSS feed: https://www.lawfareblog.com/taxonomy/term/5798/all/feed)
+
+- [Cyber Security – AI-TechPark](https://ai-techpark.com) - AI, ML, IoT, Cybersecurity News &amp; Trend Analysis, Interviews (RSS feed: https://ai-techpark.com/category/cyber-security/feed)
 
 - [Cybersecurity Blog | CrowdStrike](http://provinggrounds.cs.sys/blog/) - Next-Generation Endpoint Protection (RSS feed: https://www.crowdstrike.com/blog/feed)
 
@@ -267,9 +267,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MalwareTech](https://malwaretech.com/) - Cyber Security, Tech, Analysis. (RSS feed: https://malwaretech.com/feed.xml)
 
-- [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
-
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog/) - Expert coverage of cybersecurity topics (RSS feed: https://www.microsoft.com/security/blog/feed)
+
+- [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
 
 - [Microsoft Security Response Center](https://msrc-blog.microsoft.com) - Skip to main content Microsoft MSRC MSRC MSRC Home Report an issue Report Security Vulnerability Report Abuse Report Infringement Submission … (RSS feed: https://msrc-blog.microsoft.com/feed)
 
@@ -633,8 +633,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Dr Josh Stroschein](https://www.youtube.com/channel/UCI8zwug_Lv4_-KPT62oeDUA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCI8zwug_Lv4_-KPT62oeDUA)
 
-- [Ekoparty Security Conference](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCiVNwNkoMapaeyr9o6XEonA)
-
 - [ESET](https://www.youtube.com/channel/UCkN7IPX-dVEsAdjoLdFda1g) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCkN7IPX-dVEsAdjoLdFda1g)
 
 - [Forensic Focus](https://www.youtube.com/channel/UCQajlJPesqmyWJDN52AZI4Q) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCQajlJPesqmyWJDN52AZI4Q)
@@ -668,8 +666,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w)
 
 - [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCVFXrUwuWxNlm6UNZtBLJ-A)
-
-- [media.ccc.de](https://www.youtube.com/channel/UC2TXq_t06Hjdr2g_KdKpHQg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2TXq_t06Hjdr2g_KdKpHQg)
 
 - [MSP Radio](https://www.youtube.com/channel/UCu0s5jO5LM-iLZgOK_seAzA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCu0s5jO5LM-iLZgOK_seAzA)
 
