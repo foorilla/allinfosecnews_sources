@@ -11,6 +11,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 ## InfoSec / Cybersecurity News
 
+- [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com/) - Digital Forensics / Incident Response (RSS feed: https://aboutdfir.com/feed)
+
 - [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com) - Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds. (RSS feed: https://blog.cryptographyengineering.com/feed)
 
 - [Akamai Blog](https://www.akamai.com/blog) - Read more about what we&#x27;re thinking about in the Akamai blog. (RSS feed: http://feeds.feedburner.com/akamai/blog)
@@ -44,8 +46,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [BleepingComputer](https://www.bleepingcomputer.com/) - BleepingComputer - All Stories (RSS feed: https://www.bleepingcomputer.com/feed/)
 
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io) - The latest in blockchain, DeFi and exchange threat intelligence on hacks, vulnerabilities, security tools, and events. (RSS feed: https://newsletter.blockthreat.io/feed)
-
-- [Blog Archive - Minerva Labs](https://minerva-labs.com/blog/) - Never Pay Ransom™ (RSS feed: https://minerva-labs.com/blog/feed/)
 
 - [Blog – CnSight.io – Cybersecurity Performance Improvement](https://cnsight.io) - nginx error! The page you are looking for is temporarily unavailable. Please try again later. Website Administrator Something has triggered … (RSS feed: https://cnsight.io/blog/feed)
 
@@ -90,8 +90,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Crunchbase News](https://news.crunchbase.com) - Data-driven reporting on private markets, startups, founders, and investors (RSS feed: https://news.crunchbase.com/feed)
 
 - [cs.CR updates on arXiv.org](https://arxiv.org/) - Computer Science -- Cryptography and Security (cs.CR) updates on the arXiv.org e-print archive (RSS feed: https://export.arxiv.org/rss/cs.CR/)
-
-- [CSO Online](https://www.csoonline.com) - (RSS feed: https://www.csoonline.com/index.rss)
 
 - [Cybercrime Magazine](https://cybersecurityventures.com) - Cybersecurity Research, Lists, M&amp;A, Investments &amp; IPOs (RSS feed: https://cybersecurityventures.com/feed/)
 
@@ -171,17 +169,21 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [For [Blue|Purple] Teams in Cyber Defence](https://www.reddit.com/r/blueteamsec/) - We focus on technical intelligence, research and engineering to help operational [blue|purple] teams defend their estates. (RSS feed: https://www.reddit.com/r/blueteamsec.json?limit=50)
 
+- [Forensic Focus](https://www.forensicfocus.com/) - Digital Forensics DFIR, OSINT &amp; E-Discovery News, Reviews, Articles, Forums, More (RSS feed: https://www.forensicfocus.com/feed/)
+
 - [FortiGuard Labs | FortiGuard Center - IR Advisories](https://fortiguard.fortinet.com/rss/ir.xml) - The following is a list of advisories for issues resolved in Fortinet products. The resolution of such issues is coordinated … (RSS feed: https://filestore.fortinet.com/fortiguard/rss/ir.xml)
 
 - [FortiGuard Labs | FortiGuard Center - Threat Signal Report](https://fortiguard.fortinet.com/rss/threatsignal.xml) - The Threat Signal created by the FortiGuard Labs is intended to provide you with insight on emerging issues that are … (RSS feed: https://filestore.fortinet.com/fortiguard/rss/threatsignal.xml)
 
 - [GBHackers On Security](https://gbhackers.com) - Daily Cyber Security Research updates,Hacking tutorial Updates,Technology updates (RSS feed: http://feeds.feedburner.com/gbhackers)
 
-- [Gdpr on TechRepublic](https://www.techrepublic.com/) - Gdpr on TechRepublic (RSS feed: https://www.techrepublic.com/rssfeeds/topic/gdpr/)
+- [Global Encryption Coalition](https://www.globalencryption.org/) - (RSS feed: https://www.globalencryption.org/feed/)
 
 - [Google Online Security Blog](http://security.googleblog.com/) - The latest news and insights from Google on security and safety on the Internet. (RSS feed: https://googleonlinesecurity.blogspot.com/atom.xml)
 
 - [Graham Cluley](https://grahamcluley.com) - Computer security news, advice, and opinion (RSS feed: https://www.grahamcluley.com/feed/)
+
+- [Hackaday](https://hackaday.com) - Fresh hacks every day (RSS feed: https://hackaday.com/feed/)
 
 - [Hacker Combat](https://hackercombat.com) - Connection timed out Error code 522 Visit cloudflare.com for more information. 2023-01-22 16:14:31 UTC You Browser Working Frankfurt Cloudflare Working … (RSS feed: https://hackercombat.com/feed/)
 
@@ -267,6 +269,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MalwareTech](https://malwaretech.com/) - Cyber Security, Tech, Analysis. (RSS feed: https://malwaretech.com/feed.xml)
 
+- [Mashable](https://mashable.com/) - Mashable is a global, multi-platform media and entertainment company. (RSS feed: https://mashable.com/feeds/rss/tech)
+
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog/) - Expert coverage of cybersecurity topics (RSS feed: https://www.microsoft.com/security/blog/feed)
 
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
@@ -283,9 +287,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [NCSC Feed](https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml) - This includes feeds from report, guidance and blog-post (RSS feed: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)
 
-- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
-
 - [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
+
+- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -411,7 +415,11 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [TechCrunch](https://techcrunch.com) - Startup and Technology News (RSS feed: https://techcrunch.com/feed/)
 
+- [Techmeme](http://www.techmeme.com/) - Tech Web, page A1 (RSS feed: https://www.techmeme.com/feed.xml)
+
 - [Technology | Reuters News Agency](https://www.reutersagency.com/en/) - (RSS feed: https://www.reutersagency.com/feed/?best-topics=tech)
+
+- [TechSpot](https://www.techspot.com) - TechSpot News - All Stories (RSS feed: https://www.techspot.com/backend.xml)
 
 - [Tech Xplore - Security News](https://techxplore.com/security-news/) - The latest news on cyber security, network security, software vulnerabilities, data leaks, malware, and viruses (RSS feed: https://techxplore.com/rss-feed/security-news/)
 
@@ -433,6 +441,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [The Open Cloud Vulnerability &amp; Security Issue Database](https://www.cloudvulndb.org) - An open project to list all known cloud vulnerabilities and Cloud Service Provider security issues. (RSS feed: https://www.cloudvulndb.org/rss/feed.xml)
 
+- [The Proton Blog](https://proton.me) - News from the front lines of privacy and security (RSS feed: https://proton.me/blog/feed)
+
 - [The Record by Recorded Future](https://therecord.media) - Page Could Not Be Loaded We&#x27;re very sorry, but the page could not be loaded properly. This should be fixed … (RSS feed: https://therecord.media/feed/)
 
 - [The Red Canary Blog: Information Security Insights](https://redcanary.com/blog/) - (RSS feed: https://redcanary.com/blog/feed/)
@@ -452,8 +462,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Threat Labs - Netskope](https://www.netskope.com/blog/category/netskope-threat-labs) - Web server is down The web server is not returning a connection. As a result, the web page is not … (RSS feed: https://www.netskope.com/blog/category/netskope-threat-labs/feed)
 
 - [Threatpost](https://threatpost.com) - The First Stop For Security News (RSS feed: https://threatpost.com/feed)
-
-- [Threat Research Blog](http://www.fireeye.com/blog/threat-research.html) - Technical review and analysis of malware and TTPs from FireEye engagements. (RSS feed: https://www.fireeye.com/blog/feed)
 
 - [tl;dr sec](https://tldrsec.com/) - Keep up with security research. (RSS feed: https://tldrsec.com/feed)
 
@@ -475,6 +483,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [WeSecureApp :: Simplifying Enterprise Security!](https://wesecureapp.com) - ERROR Failed to contact the origin. (RSS feed: https://wesecureapp.com/feed/)
 
+- [XploitLab](https://xploitlab.com/) - The Cyber Weapons (RSS feed: https://xploitlab.com/feed)
+
 - [Zero Day Initiative - Blog](https://www.zerodayinitiative.com/blog/) - 429 Too Many Requests Please visit status.squarespace.com for updates nriwpHuN/s7nH4AYV @ Mon, 09 Jan 2023 12:11:40 GMT SEC-60 &amp;amp;&amp;amp;&amp;gt;&amp;amp;&amp;amp;&amp;lt; (RSS feed: https://www.zerodayinitiative.com/blog?format=rss)
 
 **[⬆ back to top](#contents)**
@@ -491,13 +501,13 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Brakeing Down Security Podcast](http://www.brakeingsecurity.com) - (RSS feed: https://brakesec.com/BrakesecRSS)
 
-- [CISO Series](https://cisoseries.com) - (RSS feed: https://cisoseries.com/feed/)
+- [CISO Series](https://cisoseries.com) - (RSS feed: https://cisoseries.libsyn.com/rss)
+
+- [CISO Series Podcast](http://cisoseries.com/) - (RSS feed: http://davidspark.libsyn.com/cisovendor)
 
 - [Click Here](http://www.recordedfuture.com/podcast) - (RSS feed: https://feeds.megaphone.fm/clickhere)
 
 - [Critical Thinking - A Bug Bounty Podcast](https://rss.com/podcasts/ctbbpodcast) - (RSS feed: https://media.rss.com/ctbbpodcast/feed.xml)
-
-- [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com) - (RSS feed: http://dhenage.libsyn.com/rss)
 
 - [CYBER](https://www.vice.com/en_us/topic/cyber) - (RSS feed: https://feeds.acast.com/public/shows/cyber)
 
@@ -513,7 +523,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [DAY[0]](https://dayzerosec.com/) - (RSS feed: https://dayzerosec.com/feed.xml)
 
-- [Decoder with Nilay Patel](https://theverge.com) - (RSS feed: https://feeds.megaphone.fm/recodedecode)
+- [Defense in Depth](https://cisoseries.com/) - (RSS feed: https://defenseindepth.libsyn.com/rss)
 
 - [Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec](https://defensivesecurity.org) - (RSS feed: https://defensivesecurity.org/feed/podcast)
 
@@ -524,8 +534,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Error Code](https://errorcode.podbean.com) - (RSS feed: https://feed.podbean.com/errorcode/feed.xml)
 
 - [Forensic Focus](https://www.forensicfocus.com) - (RSS feed: http://feeds.libsyn.com/200150/rss)
-
-- [Getting Into Infosec](https://gettingintoinfosec.com/) - (RSS feed: https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss)
 
 - [Hacker History Podcast](https://hackerhistory.com/) - (RSS feed: https://hackerhistory.com/feed/podcast/)
 
@@ -540,8 +548,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Life of a CISO with Dr. Eric Cole](http://ericcole.libsyn.com/website) - (RSS feed: https://ericcole.libsyn.com/rss)
 
 - [Malicious Life](https://malicious.life) - (RSS feed: https://malicious.life/feed/podcast/)
-
-- [Mission Control Center](https://podcast.ausha.co/mission-control-center) - (RSS feed: https://feed.ausha.co/b3VlNUvXl2aa)
 
 - [Podcast – Naked Security](https://nakedsecurity.sophos.com) - (RSS feed: https://nakedsecurity.sophos.com/category/audio-and-video/podcast/feed)
 
@@ -581,11 +587,11 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [The Official Offensive Security Podcast](https://anchor.fm/offsec) - (RSS feed: https://anchor.fm/s/532bea14/podcast/rss)
 
+- [The Privacy, Security, &amp; OSINT Show](https://soundcloud.com/user-98066669) - (RSS feed: https://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss)
+
 - [The Security Ledger with Paul F. Roberts](https://securityledger.com) - (RSS feed: https://securityledger.com/feed/podcast/)
 
 - [The Shared Security Show](https://sharedsecurity.net) - (RSS feed: https://sharedsecurity.net/feed)
-
-- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - (RSS feed: https://feeds.simplecast.com/XA_851k3)
 
 - [Troy Hunt&#x27;s Weekly Update Podcast](https://www.troyhunt.com) - (RSS feed: https://omny.fm/shows/troy-hunt-weekly-update/playlists/podcast.rss)
 
@@ -667,8 +673,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCVFXrUwuWxNlm6UNZtBLJ-A)
 
-- [MSP Radio](https://www.youtube.com/channel/UCu0s5jO5LM-iLZgOK_seAzA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCu0s5jO5LM-iLZgOK_seAzA)
-
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw)
 
 - [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC--DwaiMV-jtO-6EvmKOnqg)
@@ -692,8 +696,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [SANS Institute](https://www.youtube.com/channel/UC2uPNhGken-ogEpJDi4ly6w) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC2uPNhGken-ogEpJDi4ly6w)
 
 - [SANS Offensive Operations](https://www.youtube.com/channel/UCP28F4uf9s2V1_SQwnJST_A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCP28F4uf9s2V1_SQwnJST_A)
-
-- [Security BSides London](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCXXNOelGiY_N96a2nfhcaDA)
 
 - [Security BSides San Francisco](https://www.youtube.com/channel/UCWemrSP6Aba171jXReCz_Qg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCWemrSP6Aba171jXReCz_Qg)
 
@@ -721,11 +723,10 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Wild West Hackin&#x27; Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCef0TWni8ghLcJphdmDBoxw)
 
-- [ZeroNights](https://www.youtube.com/channel/UCtQ0fPmP4fCGBkYWMxnjh6A) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCtQ0fPmP4fCGBkYWMxnjh6A)
-
 **[⬆ back to top](#contents)**
 
 ## InfoSec / Cybersecurity Jobs
 
 - [infosec-jobs.com](https://infosec-jobs.com/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Ethical Hacking, Pen Testing, Security Engineering, Threat Research, Vulnerability Analysis, Cryptography, Digital Forensics and Cyber Security in general. (RSS feed: https://infosec-jobs.com/feed/)
+
 **[⬆ back to top](#contents)**
