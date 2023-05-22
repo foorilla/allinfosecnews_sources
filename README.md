@@ -223,7 +223,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Information Security News](https://www.reddit.com/r/InfoSecNews) - This subreddit is designed for users to post the latest Information Security related news and articles from around the Internet. … (RSS feed: https://www.reddit.com/r/InfoSecNews.json?limit=50)
 
-- [Infosecurity Magazine](https://www.infosecurity-magazine.com/news/) - (RSS feed: https://www.infosecurity-magazine.com/rss/news)
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com/) - Infosecurity Magazine has over twelve years of experience providing knowledge and insight into the information security industry. Its multiple award … (RSS feed: https://www.infosecurity-magazine.com/rss/news)
 
 - [InfoSec Write-ups - Medium](https://infosecwriteups.com?source=rss----7b722bfd1b8d---4) - A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to … (RSS feed: https://infosecwriteups.com/feed)
 
@@ -271,8 +271,6 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MalwareTech](https://malwaretech.com/) - Cyber Security, Tech, Analysis. (RSS feed: https://malwaretech.com/feed.xml)
 
-- [Mashable](https://mashable.com/) - Mashable is a global, multi-platform media and entertainment company. (RSS feed: https://mashable.com/feeds/rss/tech)
-
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
 
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog/) - Expert coverage of cybersecurity topics (RSS feed: https://www.microsoft.com/security/blog/feed)
@@ -291,9 +289,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [NCSC Feed](https://www.ncsc.gov.uk/) - This includes feeds from report, guidance and blog-post. (RSS feed: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)
 
-- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
-
 - [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
+
+- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -357,11 +355,11 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [SC Magazine feed for Policy](https://www.scmagazine.com/topic/policy/) - (RSS feed: https://www.scmagazine.com/feed/topic/policy)
 
-- [SC Magazine feed for Risk Management](https://www.scmagazine.com/topic/risk-management/) - (RSS feed: https://www.scmagazine.com/feed/topic/risk-management)
+- [SC Magazine feed for Risk Management](https://www.scmagazine.com/topic/risk-management/) - Gateway time-out Error code 504 Visit cloudflare.com for more information. 2023-05-17 01:20:10 UTC You Browser Working Frankfurt Cloudflare Working www.scmagazine.com … (RSS feed: https://www.scmagazine.com/feed/topic/risk-management)
 
-- [SC Magazine feed for Strategy](https://www.scmagazine.com/topic/strategy/) - (RSS feed: https://www.scmagazine.com/feed/topic/strategy)
+- [SC Magazine feed for Strategy](https://www.scmagazine.com/topic/strategy/) - Please enable cookies. Sorry, you have been blocked You are unable to access scmagazine.com Why have I been blocked? This … (RSS feed: https://www.scmagazine.com/feed/topic/strategy)
 
-- [SC Magazine feed for Threats](https://www.scmagazine.com/topic/threats/) - (RSS feed: https://www.scmagazine.com/feed/topic/threats)
+- [SC Magazine feed for Threats](https://www.scmagazine.com/topic/threats/) - Please enable cookies. Sorry, you have been blocked You are unable to access scmagazine.com Why have I been blocked? This … (RSS feed: https://www.scmagazine.com/feed/topic/threats)
 
 - [Secjuice](https://www.secjuice.com/) - NON-PROFIT CYBER GOODNESS (RSS feed: https://www.secjuice.com/rss/)
 
@@ -493,7 +491,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [XploitLab](https://xploitlab.com/) - The Cyber Weapons (RSS feed: https://xploitlab.com/feed)
 
-- [Zero Day Initiative - Blog](https://www.zerodayinitiative.com/blog/) - 429 Too Many Requests Please visit status.squarespace.com for updates nriwpHuN/s7nH4AYV @ Mon, 09 Jan 2023 12:11:40 GMT SEC-60 &amp;amp;&amp;amp;&amp;gt;&amp;amp;&amp;amp;&amp;lt; (RSS feed: https://www.zerodayinitiative.com/blog?format=rss)
+- [Zero Day Initiative - Blog](https://www.zerodayinitiative.com/blog/) - The Zero Day Initiative (ZDI) was created to encourage the reporting of 0-day vulnerabilities privately to the affected vendors by … (RSS feed: https://www.zerodayinitiative.com/blog?format=rss)
 
 **[⬆ back to top](#contents)**
 
@@ -693,6 +691,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [OWASP Foundation](https://www.youtube.com/channel/UCe8j61ABYDuPTdtjItD2veA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCe8j61ABYDuPTdtjItD2veA)
 
+- [Phillip Wylie](https://www.youtube.com/channel/UCeZgoXbccmkcf9viz974MEA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCeZgoXbccmkcf9viz974MEA)
+
 - [PinkDraconian](https://www.youtube.com/channel/UCmXwpkCXmIKjoRLMsq9I3RA) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCmXwpkCXmIKjoRLMsq9I3RA)
 
 - [PurpleSec](https://www.youtube.com/channel/UCJ_dsa5WPjwNGK8PLnB18Bw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCJ_dsa5WPjwNGK8PLnB18Bw)
@@ -728,6 +728,10 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [StudioSec](https://www.youtube.com/channel/UCLXQOTWipgpd6CtDKrclqNw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCLXQOTWipgpd6CtDKrclqNw)
 
 - [Surveillance Report](https://www.youtube.com/channel/UC0W_BIuwk8D0Bv4THbVZZOQ) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UC0W_BIuwk8D0Bv4THbVZZOQ)
+
+- [t3l3machus](https://www.youtube.com/channel/UCebj---w2CTP49tah7a8Veg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCebj---w2CTP49tah7a8Veg)
+
+- [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCKGe7fZ_S788Jaspxg-_5Sg)
 
 - [The XSS rat](https://www.youtube.com/channel/UCjBhClJ59W4hfUly51i11hg) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCjBhClJ59W4hfUly51i11hg)
 
