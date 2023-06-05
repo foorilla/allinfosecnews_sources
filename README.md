@@ -215,9 +215,11 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [IACR News](https://www.iacr.org/news/) - (RSS feed: https://iacr.org/news/rss)
 
+- [IEEE Spectrum](https://spectrum.ieee.org/) - IEEE Spectrum (RSS feed: https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss)
+
 - [Industrial Cyber](https://industrialcyber.co/) - Industrial, OT/ICS, SCADA Cyber Security System &amp; Solutions (RSS feed: https://industrialcyber.co/feed/)
 
-- [Information Security Archives](https://danielmiessler.com/category/information-security/) - (RSS feed: https://danielmiessler.com/category/information-security/feed)
+- [Information Security Archives](https://danielmiessler.com/category/information-security/) - 504 Gateway Time-out nginx (RSS feed: https://danielmiessler.com/category/information-security/feed)
 
 - [Information Security Buzz](https://informationsecuritybuzz.com) - Information Security News With Experts Analysis. (RSS feed: https://feeds.feedburner.com/InformationSecurityBuzz)
 
@@ -279,6 +281,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MIT News - Cybersecurity](https://news.mit.edu/topic/mitcyber-security-rss.xml) - MIT news feed about: Cybersecurity (RSS feed: https://news.mit.edu/topic/mitcyber-security-rss.xml)
 
+- [Mozilla Foundation Blog](https://foundation.mozilla.org/blog/) - The Mozilla Foundation Blog (RSS feed: https://foundation.mozilla.org/en/blog/rss/)
+
 - [MSRC Security Update Guide](https://msrc.microsoft.com/update-guide/) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services, and provides the … (RSS feed: https://api.msrc.microsoft.com/update-guide/rss)
 
 - [Naked Security](https://nakedsecurity.sophos.com) - Computer Security News, Advice and Research (RSS feed: https://nakedsecurity.sophos.com/feed)
@@ -289,9 +293,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [NCSC Feed](https://www.ncsc.gov.uk/) - This includes feeds from report, guidance and blog-post. (RSS feed: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)
 
-- [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
-
 - [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
+
+- [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -353,7 +357,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Schneier on Security](https://www.schneier.com) - (RSS feed: https://www.schneier.com/feed/atom)
 
-- [SC Magazine feed for Policy](https://www.scmagazine.com/topic/policy/) - (RSS feed: https://www.scmagazine.com/feed/topic/policy)
+- [SC Magazine feed for Policy](https://www.scmagazine.com/topic/policy/) - Connection timed out Error code 522 Visit cloudflare.com for more information. 2023-05-23 11:17:52 UTC You Browser Working Frankfurt Cloudflare Working … (RSS feed: https://www.scmagazine.com/feed/topic/policy)
 
 - [SC Magazine feed for Risk Management](https://www.scmagazine.com/topic/risk-management/) - Gateway time-out Error code 504 Visit cloudflare.com for more information. 2023-05-17 01:20:10 UTC You Browser Working Frankfurt Cloudflare Working www.scmagazine.com … (RSS feed: https://www.scmagazine.com/feed/topic/risk-management)
 
@@ -421,7 +425,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Techmeme](http://www.techmeme.com/) - Tech Web, page A1 (RSS feed: https://www.techmeme.com/feed.xml)
 
-- [Technology | Reuters News Agency](https://www.reutersagency.com/en/) - (RSS feed: https://www.reutersagency.com/feed/?best-topics=tech)
+- [Technology | Reuters News Agency](https://www.reutersagency.com/en/) - We tell all sides, but take none. We go back to the start, where there’s no bias and no agenda … (RSS feed: https://www.reutersagency.com/feed/?best-topics=tech)
 
 - [TechSpot](https://www.techspot.com) - TechSpot News - All Stories (RSS feed: https://www.techspot.com/backend.xml)
 
