@@ -111,9 +111,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Cybersecurity Dive - Latest News](https://www.cybersecuritydive.com/news/) - Cybersecurity News (RSS feed: https://www.cybersecuritydive.com/feeds/news/)
 
-- [Cyber Security Hub - Articles](https://www.cshub.com/rss/articles) - (RSS feed: https://www.cshub.com/rss/articles)
+- [Cyber Security Hub - Articles](https://www.cshub.com/rss/articles) - &amp;gt; JavaScript is disabled In order to continue, you need to verify that you&#x27;re not a robot by solving a … (RSS feed: https://www.cshub.com/rss/articles)
 
-- [Cyber Security Hub - News](https://www.cshub.com/rss/news) - (RSS feed: https://www.cshub.com/rss/news)
+- [Cyber Security Hub - News](https://www.cshub.com/rss/news) - &amp;gt; JavaScript is disabled In order to continue, you need to verify that you&#x27;re not a robot by solving a … (RSS feed: https://www.cshub.com/rss/news)
 
 - [Cybersecurity Insights](https://www.nist.gov/) - Cybersecurity Insights blog posts (RSS feed: https://www.nist.gov/blogs/cybersecurity-insights/rss.xml)
 
@@ -203,7 +203,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Have I Been Pwned latest breaches](https://haveibeenpwned.com/) - The latest publicly leaked data breaches to hit Have I Been Pwned (RSS feed: https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
 
-- [Healthcare IT News - Privacy &amp; Security](https://www.healthcareitnews.com/category/resource-topic/privacy-security) - (RSS feed: https://www.healthcareitnews.com/taxonomy/term/6156/feed)
+- [Healthcare IT News - Privacy &amp; Security](https://www.healthcareitnews.com/category/resource-topic/privacy-security) - 504 Gateway Time-out (RSS feed: https://www.healthcareitnews.com/taxonomy/term/6156/feed)
 
 - [HealthITSecurity](https://healthitsecurity.com/) - Health IT Security and HIPAA News and Tips (RSS feed: https://healthitsecurity.com/feed)
 
@@ -273,9 +273,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [MalwareTech](https://malwaretech.com/) - Cyber Security, Tech, Analysis. (RSS feed: https://malwaretech.com/feed.xml)
 
-- [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
-
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog/) - Expert coverage of cybersecurity topics (RSS feed: https://www.microsoft.com/security/blog/feed)
+
+- [Microsoft Security Blog](https://www.microsoft.com/security/blog) - Expert coverage of cybersecurity topics (RSS feed: https://cloudblogs.microsoft.com/microsoftsecure/feed/)
 
 - [Microsoft Security Response Center](https://msrc-blog.microsoft.com) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services, and provides the … (RSS feed: https://msrc-blog.microsoft.com/feed)
 
@@ -453,7 +453,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [The Record by Recorded Future](https://therecord.media) - Page Could Not Be Loaded We&#x27;re very sorry, but the page could not be loaded properly. This should be fixed … (RSS feed: https://therecord.media/feed/)
 
-- [The Red Canary Blog: Information Security Insights](https://redcanary.com/blog/) - (RSS feed: https://redcanary.com/blog/feed/)
+- [The Red Canary Blog: Information Security Insights](https://redcanary.com/blog/) - This site is currently undergoing scheduled maintenance. Please try back soon! (RSS feed: https://redcanary.com/blog/feed/)
 
 - [The Register - Security](https://www.theregister.com/security/) - Biting the hand that feeds IT — Enterprise Technology News and Analysis (RSS feed: https://www.theregister.com/security/headlines.atom)
 
@@ -464,6 +464,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [The State of Security](https://www.tripwire.com/state-of-security) - News. Trends. Insights. (RSS feed: https://www.tripwire.com/state-of-security/feed/)
 
 - [The Verge -  All Posts](https://www.theverge.com/) - Be back soon. Chorus Logo Our sites are offline for maintenance. Thank you for your patience while we’re making these … (RSS feed: https://www.theverge.com/rss/index.xml)
+
+- [This Week in Rust](https://this-week-in-rust.org/) - Stay up to date with events, learning resources, and recent developments in the Rust community. (RSS feed: https://this-week-in-rust.org/rss.xml)
 
 - [Threat Analysis Group (TAG)](https://blog.google/threat-analysis-group/) - Threat Analysis Group (TAG) (RSS feed: https://blog.google/threat-analysis-group/rss)
 
@@ -684,6 +686,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw)
 
 - [Jon Good](https://www.youtube.com/channel/UCbbBt23LHt4WhjiWh67NJ3w) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCbbBt23LHt4WhjiWh67NJ3w)
+
+- [Kitboga](https://www.youtube.com/channel/UCm22FAXZMw1BaWeFszZxUKw) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCm22FAXZMw1BaWeFszZxUKw)
 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - (RSS feed: https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w)
 
