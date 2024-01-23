@@ -778,4 +778,5 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 ## InfoSec / Cybersecurity Jobs
 
 - [infosec-jobs.com](https://infosec-jobs.com/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Ethical Hacking, Pen Testing, Security Engineering, Threat Research, Vulnerability Analysis, Cryptography, Digital Forensics and Cyber Security in general. (RSS feed: https://infosec-jobs.com/feed/)
+
 **[⬆ back to top](#contents)**
