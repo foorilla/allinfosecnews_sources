@@ -23,6 +23,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [API Security News](https://apisecurity.io/) - The API Security News Newsletter (RSS feed: https://apisecurity.io/feed/index.xml)
 
+- [Application and Cybersecurity Blog](https://blog.securityinnovation.com) - Learn about application and cybersecurity from the experts at Security Innovation. (RSS feed: https://blog.securityinnovation.com/rss.xml)
+
 - [Application Security Research, News, and Education Blog](https://www.veracode.com/) - Intelligent Software Security (RSS feed: https://www.veracode.com/blog/feed)
 
 - [ASEC BLOG](https://asec.ahnlab.com/en/) - AhnLab (RSS feed: https://asec.ahnlab.com/en/feed/)
@@ -37,7 +39,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Big Data on TechRepublic](https://www.techrepublic.com/) - Big Data on TechRepublic (RSS feed: https://www.techrepublic.com/rssfeeds/topic/big-data/)
 
-- [Biometric Update](https://www.biometricupdate.com) - (RSS feed: http://feeds.feedburner.com/biometricupdate)
+- [Biometric Update](https://www.biometricupdate.com) - Biometrics News, Companies and Explainers (RSS feed: http://feeds.feedburner.com/biometricupdate)
 
 - [bishopfox.com](https://bishopfox.com/) - The leader in offensive security, providing continuous pen testing, red teaming, attack surface management, and traditional security assessments. (RSS feed: https://bishopfox.com/feeds/blog.rss)
 
@@ -63,7 +65,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [CERT Recently Published Vulnerability Notes](https://kb.cert.org/vuls/) - CERT publishes vulnerability advisories called &quot;Vulnerability Notes.&quot; Vulnerability Notes include summaries, technical details, remediation information, and lists of affected vendors. … (RSS feed: https://www.kb.cert.org/vulfeed/)
 
-- [Chainalysis](https://blog.chainalysis.com/) - (RSS feed: https://blog.chainalysis.com/feed/)
+- [Chainalysis](https://blog.chainalysis.com/) - A timeout occurred Error code 524 Visit cloudflare.com for more information. 2024-01-08 21:23:13 UTC You Browser Working Frankfurt Cloudflare Working … (RSS feed: https://blog.chainalysis.com/feed/)
 
 - [Check Point Research](https://research.checkpoint.com) - Latest Research by our Team (RSS feed: https://research.checkpoint.com/feed)
 
@@ -120,6 +122,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Cyber Security News](https://cybersecuritynews.com/) - Latest Hacker and Security News (RSS feed: https://cybersecuritynews.com/feed/)
 
 - [Cybersecurity - Tech.eu](https://tech.eu/category/cybersecurity/) - The premier source of European technology news, data, research, analysis and in-depth market intelligence. (RSS feed: https://tech.eu/category/cybersecurity/feed)
+
+- [cylab.be](https://cylab.be/blog) - cylab.be (RSS feed: https://cylab.be/rss)
 
 - [DarknetLive Post Feed](https://darknetlive.com) - Last 10 Recent Posts on DarknetLive (RSS feed: https://darknetlive.com/rss)
 
@@ -259,7 +263,15 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Light Blue Touchpaper](https://www.lightbluetouchpaper.org) - Security Research, Computer Laboratory, University of Cambridge (RSS feed: https://www.lightbluetouchpaper.org/feed/)
 
-- [LinuxSecurity.com - Hybrid RSS](https://www.linuxsecurity.com/) - The central voice for Linux and Open Source security news. (RSS feed: https://linuxsecurity.com/linuxsecurity_hybrid.xml)
+- [LinuxSecurity Advisories - Debian](https://linuxsecurity.com/advisories/debian) - LinuxSecurity.com is the community&#x27;s central source for information on Linux and open source security. We follow the open source trends … (RSS feed: https://linuxsecurity.com/advisories/debian?format=feed&amp;type=rss)
+
+- [LinuxSecurity Advisories - Oracle](https://linuxsecurity.com/advisories/oracle) - LinuxSecurity.com is the community&#x27;s central source for information on Linux and open source security. We follow the open source trends … (RSS feed: https://linuxsecurity.com/advisories/oracle?format=feed&amp;type=rss)
+
+- [LinuxSecurity Advisories - Red Hat](https://linuxsecurity.com/advisories/red-hat) - LinuxSecurity.com is the community&#x27;s central source for information on Linux and open source security. We follow the open source trends … (RSS feed: https://linuxsecurity.com/advisories/red-hat?format=feed&amp;type=rss)
+
+- [LinuxSecurity Advisories - Slackware](https://linuxsecurity.com/advisories/slackware) - LinuxSecurity.com is the community&#x27;s central source for information on Linux and open source security. We follow the open source trends … (RSS feed: https://linuxsecurity.com/advisories/slackware?format=feed&amp;type=rss)
+
+- [LinuxSecurity Advisories - Ubuntu](https://linuxsecurity.com/advisories/ubuntu) - LinuxSecurity.com is the community&#x27;s central source for information on Linux and open source security. We follow the open source trends … (RSS feed: https://linuxsecurity.com/advisories/ubuntu?format=feed&amp;type=rss)
 
 - [LunaTrace Blog](https://www.lunasec.io/docs/blog) - LunaTrace Blog (RSS feed: https://www.lunasec.io/docs/blog/rss.xml)
 
@@ -293,9 +305,9 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [NCSC Feed](https://www.ncsc.gov.uk/) - This includes feeds from report, guidance and blog-post. (RSS feed: https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)
 
-- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
-
 - [News and Events Feed by Topic](https://www.nist.gov/topics) - (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
+
+- [News and Events Feed by Topic](https://www.nist.gov/topics) - Maintenance The NIST website is currently under maintenance. We will have it back up shortly. Thank you for your patience. … (RSS feed: https://www.nist.gov/news-events/cybersecurity/rss.xml)
 
 - [New Scientist - Technology](https://www.newscientist.com/) - New Scientist - Technology (RSS feed: https://www.newscientist.com/subject/technology/feed/)
 
@@ -313,11 +325,11 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [PCI Perspectives](https://blog.pcisecuritystandards.org) - Insights, information and practical resources to help your organization protect payment data. (RSS feed: https://blog.pcisecuritystandards.org/rss.xml)
 
-- [Pen Test Partners](https://www.pentestpartners.com) - (RSS feed: https://www.pentestpartners.com/feed)
+- [Pen Test Partners](https://www.pentestpartners.com) - 502 Bad Gateway nginx (RSS feed: https://www.pentestpartners.com/feed)
 
-- [PortSwigger Blog](https://portswigger.net/blog) - (RSS feed: https://portswigger.net/blog/rss)
+- [PortSwigger Blog](https://portswigger.net/blog) - 503 Service Unavailable No server is available to handle this request. (RSS feed: https://portswigger.net/blog/rss)
 
-- [PortSwigger Research](https://portswigger.net/research) - (RSS feed: https://portswigger.net/research/rss)
+- [PortSwigger Research](https://portswigger.net/research) - 502 Bad Gateway (RSS feed: https://portswigger.net/research/rss)
 
 - [Positive Security | IT Security research and happy coincidences](https://positive.security) - We&#x27;re a team of highly skilled IT security professionals dedicated to tackling the most diverse and complex problems in the … (RSS feed: https://positive.security/blog/rss.xml)
 
@@ -363,6 +375,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [SC Magazine feed for Threats](https://www.scmagazine.com/topic/threats/) - Please enable cookies. Sorry, you have been blocked You are unable to access scmagazine.com Why have I been blocked? This … (RSS feed: https://www.scmagazine.com/feed/topic/threats)
 
+- [Scott Helme](https://scotthelme.co.uk/) - Hi, I&#x27;m Scott Helme, a Security Researcher, Entrepreneur and International Speaker. I&#x27;m the creator of Report URI and Security Headers, … (RSS feed: https://scotthelme.co.uk/rss/)
+
 - [Secure Insights](https://www.axis.com/blog/secure-insights) - Axis Blog (RSS feed: https://www.axis.com/blog/secure-insights/?feed=rss)
 
 - [Secureworks Counter Threat Unit (CTU) Research](https://www.secureworks.com/research) - The latest publications from our Counter Threat Unit including Threat Analyses and Threat Advisories (RSS feed: https://www.secureworks.com/rss?feed=research)
@@ -397,6 +411,8 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Silicon Republicinfosec – Silicon Republic](https://www.siliconrepublic.com) - Silicon Republic is a leading source for technology, science and start-up news, information and resources for people who are passionate … (RSS feed: https://www.siliconrepublic.com/feed)
 
+- [SOCRadar® Cyber Intelligence Inc.](https://socradar.io/) - Early warning threat detection system (RSS feed: https://socradar.io/feed/)
+
 - [Sonatype Blog](https://blog.sonatype.com) - Conversations about software supply automation, devsecops, open source, continuous delivery, and application security. (RSS feed: https://blog.sonatype.com/rss.xml)
 
 - [SpiderLabs Blog from Trustwave](https://www.trustwave.com/en-us/) - SpiderLabs is Trustwave’s elite team of ethical hackers, forensic investigators and security researchers. (RSS feed: https://www.trustwave.com/en-us/rss/spiderlabs-blog/)
@@ -411,7 +427,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Synack](https://www.synack.com/) - The Premier Security Testing Platform. (RSS feed: https://www.synack.com/feed/)
 
-- [Sysdig Secure – Sysdig](https://sysdig.com) - (RSS feed: https://sysdig.com/blog/category/sysdig-secure2/feed/)
+- [Sysdig Secure – Sysdig](https://sysdig.com) - 502 Bad Gateway cloudflare (RSS feed: https://sysdig.com/blog/category/sysdig-secure2/feed/)
 
 - [System Weakness - Medium](https://systemweakness.com?source=rss----f20a9840e177---4) - System Weakness is a publication that specialises in publishing upcoming writers in cybersecurity and ethical hacking space. Our security experts … (RSS feed: https://systemweakness.com/feed)
 
@@ -471,7 +487,7 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 
 - [Threatpost](https://threatpost.com) - The First Stop For Security News (RSS feed: https://threatpost.com/feed)
 
-- [tl;dr sec](https://tldrsec.com/) - Keep up with security research. (RSS feed: https://tldrsec.com/feed)
+- [tl;dr sec](https://tldrsec.com/) - Keep up with security research. (RSS feed: https://rss.beehiiv.com/feeds/xgTKUmMmUm.xml)
 
 - [Trail of Bits Blog](https://blog.trailofbits.com) - (RSS feed: https://blog.trailofbits.com/feed/)
 
@@ -494,6 +510,10 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 - [Wordfence](https://www.wordfence.com/) - WordPress Security Plugin (RSS feed: https://www.wordfence.com/feed/)
 
 - [XploitLab](https://xploitlab.com/) - The Cyber Weapons (RSS feed: https://xploitlab.com/feed)
+
+- [ZDI: Published Advisories](https://www.zerodayinitiative.com/advisories/published/) - Published Advisories (RSS feed: https://www.zerodayinitiative.com/rss/published/)
+
+- [ZDI: Upcoming Advisories](http://www.zerodayinitiative.com/advisories/upcoming/) - Upcoming Advisories (RSS feed: https://www.zerodayinitiative.com/rss/upcoming/)
 
 - [Zero Day](https://zetter.substack.com) - Spies, hackers and the intersection between cybersecurity and national security. (News, analysis, features, investigations) (RSS feed: https://zetter.substack.com/feed)
 
@@ -758,5 +778,4 @@ A list of online news & info sources in the InfoSec / Cybersecurity space with t
 ## InfoSec / Cybersecurity Jobs
 
 - [infosec-jobs.com](https://infosec-jobs.com/) - The most comprehensive, lean and clean, no-nonsense job site related to all things Ethical Hacking, Pen Testing, Security Engineering, Threat Research, Vulnerability Analysis, Cryptography, Digital Forensics and Cyber Security in general. (RSS feed: https://infosec-jobs.com/feed/)
-
 **[⬆ back to top](#contents)**
