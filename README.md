@@ -1,6 +1,6 @@
 # all InfoSec News - Sources
 
-A list of online news & info sources in the InfoSec / Cybersecurity space with their website + RSS feed. This is an extract of all the sources aggregated on the [allinfosecnews.com](https://allinfosecnews.com) website (defunct in 08-2024).
+A list of online news & info sources in the InfoSec / Cybersecurity space with their website + RSS feed. This is an extract of all the sources aggregated on the allinfosecnews.com website (defunct in 08-2024).
 
 ## Contents
 
