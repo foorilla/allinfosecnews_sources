@@ -537,7 +537,7 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [The Salty Hash - Medium](https://blog.ironcorelabs.com?source=rss----424d9e2d3917---4) - Tips, tricks, pointers and perspectives on building secure, testable, maintainable apps. Thoughts and observations about security and privacy from IronCore … (RSS feed: https://blog.ironcorelabs.com/feed)
 
-- [The Stack](https://www.thestack.technology/) - Interviews, Insight, Intelligence for Digital Leaders (RSS feed: https://www.thestack.technology/latest/rss/)
+- [The Stack](https://www.thestack.technology/) - Interviews, Insight, Intelligence for Digital Leaders (RSS feed: https://www.thestack.technology/rss/)
 
 - [The State of Security](https://www.tripwire.com/state-of-security) - News. Trends. Insights. (RSS feed: https://www.tripwire.com/state-of-security/feed/)
 
