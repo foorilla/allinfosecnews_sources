@@ -25,6 +25,7 @@
   <outline htmlUrl="https://www.imperva.com/blog" text="Blog" title="Blog" type="rss" xmlUrl="https://www.imperva.com/blog/feed/"/>
   <outline htmlUrl="https://www.praetorian.com/blog/" text="Blog - Praetorian" title="Blog - Praetorian" type="rss" xmlUrl="https://www.praetorian.com/blog/feed/"/>
   <outline htmlUrl="https://samcurry.net" text="Blog | Sam Curry" title="Blog | Sam Curry" type="rss" xmlUrl="https://samcurry.net/feed.rss"/>
+  <outline htmlUrl="https://sase.cloud" text="sase.cloud" title="sase.cloud - Independent SASE &amp; SSE Knowledge Base" type="rss" xmlUrl="https://sase.cloud/blog"/>
   <outline htmlUrl="https://www.offensive-security.com" text="Blog &amp;amp; What&amp;#x27;s New | Offensive Security" title="Blog &amp;amp; What&amp;#x27;s New | Offensive Security" type="rss" xmlUrl="https://www.offensive-security.com/blog/feed"/>
   <outline htmlUrl="https://www.zerofox.com" text="Blog – ZeroFox" title="Blog – ZeroFox" type="rss" xmlUrl="https://www.zerofox.com/blog/feed"/>
   <outline htmlUrl="https://bloomberg.com/technology/" text="Bloomberg Technology" title="Bloomberg Technology" type="rss" xmlUrl="https://feeds.bloomberg.com/technology/news.rss"/>
