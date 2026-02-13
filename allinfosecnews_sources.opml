@@ -201,6 +201,7 @@
   <outline htmlUrl="https://risky.biz/" text="Risky Business" title="Risky Business" type="rss" xmlUrl="https://risky.biz/feeds/risky-business"/>
   <outline htmlUrl="https://www.reddit.com/r/netsec" text="/r/netsec - Information Security News &amp;amp; Discussion" title="/r/netsec - Information Security News &amp;amp; Discussion" type="rss" xmlUrl="https://www.reddit.com/r/netsec"/>
   <outline htmlUrl="https://www.sans.org/blog" text="SANS Blog" title="SANS Blog" type="rss" xmlUrl="https://www.sans.org/blog/feed.xml"/>
+  <outline htmlUrl="https://sase.cloud/blog" text="sase.cloud" title="sase.cloud" type="rss" xmlUrl="https://sase.cloud/blog/feed.xml"/>
   <outline htmlUrl="https://www.schneier.com" text="Schneier on Security" title="Schneier on Security" type="rss" xmlUrl="https://www.schneier.com/feed/atom"/>
   <outline htmlUrl="https://www.scmagazine.com/topic/policy/" text="SC Magazine feed for Policy" title="SC Magazine feed for Policy" type="rss" xmlUrl="https://www.scmagazine.com/feed/topic/policy"/>
   <outline htmlUrl="https://www.scmagazine.com/topic/risk-management/" text="SC Magazine feed for Risk Management" title="SC Magazine feed for Risk Management" type="rss" xmlUrl="https://www.scmagazine.com/feed/topic/risk-management"/>
