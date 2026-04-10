@@ -395,6 +395,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [Rekt](https://www.rekt.news) - Investigative journalism &amp; creative commentary (RSS feed: https://rekt.news/rss/feed.xml)
 
+- [Rex Coleman – AI Security Research](https://rexcoleman.dev/) - AI security research with reproducible experiments: multi-agent cascade attacks, prompt injection taxonomy, LLM watermark robustness, vulnerability prioritization with ML. (RSS feed: https://rexcoleman.dev/index.xml)
+
 - [Resecurity](https://www.resecurity.com/) - Keep up-to-date with the latest Blogs published by Resecurity. (RSS feed: https://www.resecurity.com/feed)
 
 - [Rest of World -](https://restofworld.org) - Reporting Global Tech Stories (RSS feed: https://restofworld.org/feed/latest/)
