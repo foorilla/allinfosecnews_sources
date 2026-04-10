@@ -163,6 +163,8 @@ UPDATE: You can now find a live web feed from most sources below at [foorilla.co
 
 - [Deep Instinct Blog: Breaking News and Updates](https://www.deepinstinct.com) - Deep Instinct prevents more advanced threats than any EPP or EDR in the world. (RSS feed: https://www.deepinstinct.com/blog/feed)
 
+- [defend.network](https://defend.network) - Free AI-powered daily cybersecurity threat briefings structured by threat type, industry, and severity, with weekly vulnerability reports and remediation guidance. (RSS feed: https://defend.network/feed.xml)
+
 - [Deeplinks](https://www.eff.org/rss/updates.xml) - EFF&#x27;s Deeplinks Blog: Noteworthy news from around the internet (RSS feed: https://www.eff.org/rss/updates.xml)
 
 - [Detection at Scale](https://jacknaglieri.substack.com) - A weekly infosec newsletter about scaling SIEMs and Detection Engineering. (RSS feed: https://jacknaglieri.substack.com/feed)
